@@ -1,3 +1,15 @@
+# You Can Clone ShahUtils App On GitHub
+
+You can clone the ShahUtils app on GitHub by following these steps:
+1.  Go to the GitHub website and search for the ShahUtils app.
+2.  Click on the "Code" button and select "Clone or download."
+3.  Choose the cloning method you prefer (HTTPS or SSH) and copy the clone URL.
+4.  Open your terminal or command prompt and navigate to the directory where you want to clone the
+repository.
+
+
+This project was Made By [Shahwaiz Muhammad Rafiq](https://github.com/ShahwaizMuhammadRafiq).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
